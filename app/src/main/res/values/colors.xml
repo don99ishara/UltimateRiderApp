@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="splashscreenbackground">#FFBD59</color>
+    <color name="startbtn">#ffffff</color>
+    <color name="Restartbtn">#ffffff</color>
+    <color name="Quittbtn">#ff3131</color>
+    <color name="Textcolor">#000000</color>
+</resources>

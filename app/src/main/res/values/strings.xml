@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UltimateRider</string>
+    <string name="startbtn">Play</string>
+    <string name="score">Score : 0</string>
+    <string name="mainmenu">Main Menu</string>
+    <string name="restart">Restart</string>
+    <string name="Quit">Quit</string>
+</resources>
